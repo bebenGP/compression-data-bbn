@@ -1,0 +1,5 @@
+cd path\to\your\project\directory
+.\env\Scripts\activate
+
+set PATH=C:\Path\to\Python39;%PATH%
+python --version  # ini harus menunjukkan Python 3.9.x
